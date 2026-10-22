@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ASVASA</string>
+    <string name="app_tagline">Emergency Mesh &amp; Voice Response</string>
+    <string name="police_emergency_label">Police Emergency</string>
+    <string name="fire_emergency_label">Fire &amp; Rescue</string>
+    <string name="medical_emergency_label">Ambulance &amp; Medical</string>
+    <string name="disaster_helpline_label">National Disaster Helpline</string>
+    <string name="voice_listening">Listening for emergency command…</string>
+    <string name="voice_tap_prompt">Tap mic or say \&apos;Call Police\&apos; or \&apos;SOS\&apos;</string>
+</resources>

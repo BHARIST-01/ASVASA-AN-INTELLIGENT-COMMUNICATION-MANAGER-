@@ -1,0 +1,6 @@
+{
+  "name": "ASVASA",
+  "description": "Offline-first ML emergency mesh communication network with Bluetooth messaging, voice dispatch, and nearest safety centers locator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

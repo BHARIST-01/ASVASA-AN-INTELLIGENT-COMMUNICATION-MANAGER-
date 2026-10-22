@@ -1,0 +1,6 @@
+{
+  "summary":  "Architectural implementation plan for ASVASA, an offline-first ML-powered emergency response and mesh communication Android application. Covers Bluetooth device discovery and direct text messaging, ML communication probability estimation, voice emergency control with Gemini intelligence and TTS, and GPS-based nearest emergency help centers locator with profile onboarding.",
+  "updatedAt":  "2026-10-22T12:50:14.676606903Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
